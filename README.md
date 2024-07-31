@@ -10,7 +10,7 @@
 - 👯 I’m looking to collaborate with **other developers**
 
 - 🌱 I’m currently learning **Data Structure & Algorithm**
-- 
+ 
 - 📫 How to reach me **bhagyashridipakbarhate@gmail.com**
 
 - ⚡ Fun fact **Internet users blink less than usual**
